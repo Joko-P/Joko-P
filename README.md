@@ -28,7 +28,7 @@ I guess that's all!<br />
 <h3>Current Mood</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/I47YWh9.png" alt="This is so meee!!!!" height="256px">
+  <img src="https://i.imgur.com/I47YWh9.png" alt="This is so meee!!!!" height="192px">
 </p>
 
 <h3>Statistics</h3>
