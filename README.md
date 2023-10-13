@@ -28,16 +28,7 @@ I guess that's all!<br />
 <h3>Current Mood</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/I47YWh9.png" alt="This is so meee!!!!" height="192px">
-</p>
-
-<h3>Statistics</h3>
-
-<p align="center">
-<a href="https://github.com/Joko-P">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joko-P&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joko-P&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://i.imgur.com/I47YWh9.png" alt="This is so meee!!!!" height="256px">
 </p>
 
 [Facebook]: https://www.facebook.com/dicken.baall/
