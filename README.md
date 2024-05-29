@@ -1,13 +1,13 @@
 <h1 align="center">
 <img src="https://i.imgur.com/estIpMO.gif" alt="Hiiii!!!!" width="64px" align="center" style="vertical-align:middle">
-Welcoom, Visitor!
+Welcome, Visitor!
 <img src="https://i.imgur.com/estIpMO.gif" alt="Hiiii!!!!" width="64px" align="center" style="vertical-align:middle">
 </h1>
 
 <h3>About Me</h3>
 My name is Joko Pramonoadi, you can call me Joko<br />
 I honestly don't know what to write here<br />
-Currently learning Java and PL/SQL<br />
+Currently learning Laravel<br />
 I guess that's all!<br />
 
 <h3>My Stuff</h3>
