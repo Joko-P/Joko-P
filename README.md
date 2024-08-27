@@ -25,12 +25,6 @@ I guess that's all!<br />
 </a>
 <br />
 
-<h3>Current Mood</h3>
-
-<p align="center">
-  <img src="https://i.imgur.com/I47YWh9.png" alt="This is so meee!!!!" height="256px">
-</p>
-
 [Facebook]: https://www.facebook.com/dicken.baall/
 [Instagram]: https://www.instagram.com/jp.adi69/
 [Sketchfab]: https://sketchfab.com/joko_p
